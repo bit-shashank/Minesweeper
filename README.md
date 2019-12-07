@@ -3,6 +3,6 @@ Traditional minesweeper game using Processing
 
 ## Screenshots
 
-![start image](/minesweeperstart.png)
+![start image](https://raw.githubusercontent.com/bit-shashank/Minesweeper/master/minesweeperStart.png)
 
-![end image](/minesweeperend.png)
+![end image](https://raw.githubusercontent.com/bit-shashank/Minesweeper/master/minesweeperEnd.png)
