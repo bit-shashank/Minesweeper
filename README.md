@@ -3,4 +3,6 @@ Traditional minesweeper game using Processing
 
 ## Screenshots
 
-![myimage-alt-tag](url-to-image)
+![start image](/minesweeperstart.png)
+
+![end image](/minesweeperend.png)
